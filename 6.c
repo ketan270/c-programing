@@ -7,10 +7,11 @@ int main(){
     scanf("%d",&age);
 
     if(age>=18){
-        printf("ADULT");   
+        printf("ADULT \n");   
     }
     else{
-        printf("Not Adult");
+        printf("Not Adult \n");
     }
+    printf("Thank You");
     return 0;
 }
