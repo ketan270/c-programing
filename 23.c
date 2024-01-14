@@ -9,6 +9,6 @@ int main(){
     for (int i=1;i<=n;i++){
         fact = fact * i;
     }
-    printf("FACTORIAL IS %d",fact);
+    printf("FACTORIAL IS : %d",fact);
     return 0;
 }
