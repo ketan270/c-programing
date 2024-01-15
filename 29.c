@@ -22,5 +22,5 @@ void namaste(){
     printf("NAMASTE");
 }
 void bonjour(){
-    printf("BONJOUR");
+    printf("bonjour");
 }
