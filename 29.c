@@ -20,6 +20,7 @@ int main (){
 }
 void namaste(){
     printf("NAMASTE");
+    bonjour();
 }
 void bonjour(){
     printf("bonjour");
