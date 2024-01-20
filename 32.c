@@ -4,6 +4,6 @@ int main (){
     int number;
     printf("ENTER NUMBER : ");
     scanf("%d",&number);
-    printf("%f",pow(number,2));
+    printf("%f",pow(number,3));
     return 0;
 }
