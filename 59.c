@@ -9,8 +9,7 @@ int main (){
 }
 void printArr(int arr[],int n){
     for (int i=0;i<n;i++){
-        printf("%d\t",arr[i]);
-        printf("\n");
+        printf("%d\n",arr[i]);
     }
 }
 int reverse(int arr[],int n){
