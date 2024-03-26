@@ -10,7 +10,7 @@ int main(){
     fclose(fptr);
     fptr=fopen("Sum.txt","w");
     fprintf(fptr,"%d",a+b);
-    fclose(fptr);
+    fclose(fptr);                  
     return 0;
     
 }
