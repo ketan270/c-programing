@@ -12,4 +12,5 @@ int main(){
     fprintf(fptr,"%d",a+b);
     fclose(fptr);
     return 0;
+    
 }
